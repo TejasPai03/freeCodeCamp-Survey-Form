@@ -1,7 +1,7 @@
-input{
-    display: block;
-  }
-  
-  input[type='checkbox']{
-    display: inline;
-  }
+input {
+  display: block;
+}
+
+input[type='checkbox'] {
+  display: inline;
+}
